@@ -1,0 +1,19 @@
+{
+    "require": {
+        "botman/driver-slack": "^2.1",
+        "mpociot/slack-client": "^1.0",
+        "symfony/console": "^4.0",
+        "symfony/flex": "^1.0"
+    },
+    "require-dev": {
+        "symfony/dotenv": "^4.0"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "scripts": {
+        "auto-scripts": {
+
+        }
+    }
+}
